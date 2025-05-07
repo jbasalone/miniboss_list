@@ -1,0 +1,116 @@
+{
+  "levels": {
+    "936693149114449921": 6000
+  },
+  "queues": {
+    "tt1to24": [],
+    "tt25Plus": []
+  },
+  "history": {
+    "thread-1744857443": [
+      "user1",
+      "user2",
+      "user3",
+      "user4",
+      "user5",
+      "user6",
+      "user7",
+      "user8",
+      "user9",
+      "user10"
+    ],
+    "1369550964448694273": [
+      "simUser1",
+      "simUser2",
+      "simUser3",
+      "simUser4",
+      "simUser5",
+      "simUser6",
+      "simUser7",
+      "simUser8",
+      "simUser9",
+      "simUser10"
+    ],
+    "1369552258185822209": [
+      "simUser1",
+      "simUser2",
+      "simUser3",
+      "simUser4",
+      "simUser5",
+      "simUser6",
+      "simUser7",
+      "simUser8",
+      "simUser9",
+      "simUser10"
+    ],
+    "1369554083010056203": [
+      "simUser1",
+      "simUser2",
+      "simUser3",
+      "simUser4",
+      "simUser5",
+      "simUser6",
+      "simUser7",
+      "simUser8",
+      "simUser9",
+      "simUser10"
+    ],
+    "1369554926027407424": [
+      "simUser1",
+      "simUser2",
+      "simUser3",
+      "simUser4",
+      "simUser5",
+      "simUser6",
+      "simUser7",
+      "simUser8",
+      "simUser9",
+      "simUser10"
+    ],
+    "1369560143238398022": [
+      "simUser1",
+      "simUser2",
+      "simUser3",
+      "simUser4",
+      "simUser5",
+      "simUser6",
+      "simUser7",
+      "simUser8",
+      "simUser9",
+      "simUser10"
+    ],
+    "1369567450072350730": [
+      "simUser1",
+      "simUser2",
+      "simUser3",
+      "simUser4",
+      "simUser5",
+      "simUser6",
+      "simUser7",
+      "simUser8",
+      "simUser9",
+      "simUser10"
+    ],
+    "1369583170093187113": [
+      "simUser1",
+      "simUser2",
+      "simUser3",
+      "simUser4",
+      "simUser5",
+      "simUser6",
+      "simUser7",
+      "simUser8",
+      "simUser9",
+      "simUser10"
+    ]
+  },
+  "embedIds": {
+    "tt1to24": "1369558851854270476",
+    "tt25Plus": "1362258482840998062"
+  },
+  "timestamps": {
+    "tt1to24": 0,
+    "tt25Plus": 1746604552412
+  },
+  "originalQueues": {}
+}
