@@ -57,8 +57,8 @@ export default async function messageHandler(msg: Message, client: Client) {
         storage.setQueueTimestamp(queueKey, Date.now());
         await updateQueueEmbed(client, queueKey, channelId, embedId);
         const ids = fakeUsers.map(u => u.userId);
-        const channel = await createMinibossChannel(client, guildId, outputChannelId, ids);
-        storage.saveHistory(channel.id, ids);
+        const parentCategoryId = process.env.MINIBOSS_CATEGORY_ID!;
+        const channel = await createMinibossChannel(client, guildId, parentCategoryId, ids);        storage.saveHistory(channel.id, ids);
         await channel.send({
             content: `⚔️ **Simulated Miniboss Ready!** ⚔️`,
             components: [buildMinibossButtons(queueKey)],

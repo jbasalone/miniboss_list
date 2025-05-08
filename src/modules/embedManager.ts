@@ -35,7 +35,7 @@ export async function updateQueueEmbed(
         .setTitle(EMBED_TITLES[queueKey])
         .setColor(queueKey === 'tt25Plus' ? 0xffcc00 : 0x00ccff)
         .setDescription([
-            `📑 **Tip:** Use \`mblist\` to view both queues across the server.`,
+            `📑 **Tip:** Use \`mblist\` to view both queues across the server. also: \`mbhelp\``,
             `━━━━━━━━━━━━━━━━━━`,
             queue.length ? userLines : '*No one in queue yet. Type and send your level to join*'
         ].join('\n'))
